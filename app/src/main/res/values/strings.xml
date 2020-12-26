@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PocketLib</string>
+    <string name="newly_install">new installation</string>
+    <string name="splash_text">PocketHub</string>
+    <string name="create_an_account_tv">Create an Account</string>
+    <string name="name_hint">Name</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="login_btn">or LogIn</string>
+    <string name="login_tv">Login</string>
+    <string name="login_btn_">Login</string>
+    <string name="or_signup">Or SignUp</string>
+    <string name="article_name">Article Name</string>
+    <string name="upload_article">Upload Article</string>
+    <string name="choose_article">Choose Article</string>
+    <string name="progress_text">0.0 %</string>
+    <string name="search_bar">"Search "</string>
+    <string name="name">My File</string>
+    <string name="delete_text">Delete</string>
+    <string name="my_files_txt">My Files</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966546161909",
+    "project_id": "pocketlib-66dc4",
+    "storage_bucket": "pocketlib-66dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966546161909:android:7bd9b2302f1b78fb1b45bc",
+        "android_client_info": {
+          "package_name": "com.coolbanter.pocketlib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966546161909-1llhdq08tckd70ff52jcj3q569ftjnhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coolbanter.pocketlib",
+            "certificate_hash": "7aea4d717cc3af0a117dd29dc47ca1db13d71c93"
+          }
+        },
+        {
+          "client_id": "966546161909-9e7pusd6dpjbrc43u0rcoa6hkeej12f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6fWNvbeDTIZSB0o1iONGvrPaiZBjYzDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966546161909-9e7pusd6dpjbrc43u0rcoa6hkeej12f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
